@@ -1,13 +1,22 @@
-from bs4 import BeautifulSoup
-import requests
+from utils import toSongDict
+
+import arrow
+import billboard
+import json
 import sys
 
 def getUSTopChart():
-    url = 'https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2016'
-    r = requests.get(url)
-    html_content = r.text
-    soup = BeautifulSoup(html_content, 'lxml')
-    print soup
+    chart = billboard.ChartData('hot-100')
+    time = arrow.now().isoformat()
+    songs = []
+    for song in chart:
+        song_dict = toSongDict(song)
+        songs.append(song_dict)
+    with open('us-chart.json', 'w') as f:
+        output = {}
+        output['us-chart'] = songs
+        output['date-retrieved'] = time
+        json.dump(output, f, indent=2)
 
 
 def main():
@@ -22,6 +31,7 @@ def main():
             getUSTopChart()
         else:
             raise NotImplementedError
+
 
 if __name__ == '__main__':
     main()
