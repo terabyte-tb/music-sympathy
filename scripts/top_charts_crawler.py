@@ -1,9 +1,10 @@
-from utils import toSongDict
+from utils import toSongDict, write_to_json
 
 import arrow
 import billboard
 import json
 import sys
+
 
 def getUSTopChart():
     chart = billboard.ChartData('hot-100')
@@ -12,11 +13,11 @@ def getUSTopChart():
     for song in chart:
         song_dict = toSongDict(song)
         songs.append(song_dict)
-    with open('us-chart.json', 'w') as f:
-        output = {}
-        output['us-chart'] = songs
-        output['date-retrieved'] = time
-        json.dump(output, f, indent=2)
+    output = {}
+    output['us-chart'] = songs
+    output['date-retrieved'] = time
+    output_file = "us-chart.json"
+    write_to_json(output, output_file)
 
 
 def main():

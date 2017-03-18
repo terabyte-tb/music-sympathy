@@ -1,3 +1,6 @@
+import json
+
+
 def toSongDict(song):
     obj = {}
     obj['title'] = song.title
@@ -11,3 +14,8 @@ def toSongDict(song):
     obj['spotifyLink'] = song.spotifyLink
     obj['videoLink'] = song.videoLink
     return obj
+
+
+def write_to_json(data, file_name):
+    with open(file_name, 'w') as f:
+        json.dump(data, f, indent=2)
