@@ -31,6 +31,16 @@ def save_spotify_responses():
 
 def download_us_mp3():
     data = read_from_json('us_spotify_responses.json')
+    songs = data['data']
+    has_no_preview_url = 0
+    for song in songs:
+        if u'error' in song.keys():
+            continue
+        preview_url = song['preview_url']
+        if preview_url is None:
+            print song['name']
+            has_no_preview_url += 1
+    print "No. songs has no preview_url:", has_no_preview_url
 
 
 def main():
