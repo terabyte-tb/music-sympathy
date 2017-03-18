@@ -14,8 +14,10 @@ def download_us_mp3():
         for song in chart:
             url = full_url(song['spotifyID'])
             r = requests.get(url).json()
-            print r
-            break
+            preview_url = r['preview_url']
+            song_title = song['title'].split(' ')
+            file_name = "-".join(song_title) + '.mp3'
+            print file_name
 
 def main():
     argc = len(sys.argv)
