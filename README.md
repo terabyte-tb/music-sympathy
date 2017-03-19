@@ -4,9 +4,9 @@ Music Clustering for ICCS413 Term Project
 
 ## Development
 
-Create virtualenv
+Create virtualenv (using python 3)
 ```bash
-$ virtualenv venv
+$ virtualenv -p python3 venv
 ```
 
 Activate virtualenv
