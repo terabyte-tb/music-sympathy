@@ -34,14 +34,14 @@ def download_jp_mp3():
     songs = data['data']
     n = 100
     has_no_preview_url = 0
-    for song in songs[:n]:
+    for i, song in enumerate(songs[:n]):
         preview_url = song['preview_url']
         if preview_url is None:
-            print(song['name'])
+            print(i+1, song['name'], "by", song['artists'])
             has_no_preview_url += 1
             continue
         else:
-            file_name = '-'.join(song['name'].split(' ')) + '.mp3'
+            file_name = str(i+1) + "-" + '-'.join(song['name'].split(' ')) + '.mp3'
             file_path = "tracks/jp/"
             full_path = file_path + file_name
             r = requests.get(preview_url, stream=True)
@@ -60,14 +60,14 @@ def download_uk_mp3():
     songs = data['data']
     n = 100
     has_no_preview_url = 0
-    for song in songs[:n]:
+    for i, song in enumerate(songs[:n]):
         preview_url = song['preview_url']
         if preview_url is None:
-            print(song['name'])
+            print(i+1, song['name'], "by", song['artists'])
             has_no_preview_url += 1
             continue
         else:
-            file_name = '-'.join(song['name'].split(' ')) + '.mp3'
+            file_name = str(i+1) + "-" + '-'.join(song['name'].split(' ')) + '.mp3'
             file_path = "tracks/uk/"
             full_path = file_path + file_name
             r = requests.get(preview_url, stream=True)
@@ -86,14 +86,14 @@ def download_us_mp3():
     songs = data['data']
     n = 100
     has_no_preview_url = 0
-    for song in songs[:n]:
+    for i, song in enumerate(songs[:n]):
         preview_url = song['preview_url']
         if preview_url is None:
-            print(song['name'])
+            print(i+1, song['name'], "by", song['artists'])
             has_no_preview_url += 1
             continue
         else:
-            file_name = '-'.join(song['name'].split(' ')) + '.mp3'
+            file_name = str(i+1) + "-" + '-'.join(song['name'].split(' ')) + '.mp3'
             file_path = "tracks/us/"
             full_path = file_path + file_name
             r = requests.get(preview_url, stream=True)
