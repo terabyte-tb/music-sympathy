@@ -1,6 +1,7 @@
 from utils import read_from_json, write_to_json
 
 import arrow
+import csv
 import json
 import requests
 import sys
@@ -12,31 +13,32 @@ def full_url(track_id):
     return spotifyURL + track_id
 
 
-def save_spotify_responses():
-    with open('us-chart.json', 'r') as f:
-        data = json.load(f)
-        chart = data['us-chart']
+def save_spotify_responses(csv_file, output_file):
+    with open(csv_file, 'r') as csv_f:
+        charts = csv.DictReader(csv_f)
         responses = []
         time = arrow.now().isoformat()
-        for song in chart:
-            url = full_url(song['spotifyID'])
+        for song in charts:
+            track_id = song['URL'].split('/')[-1]
+            url = full_url(track_id)
             r = requests.get(url).json()
             responses.append(r)
     output = {}
     output['data'] = responses
     output['date-retrieved'] = time
-    output_file = "us_spotify_responses.json"
     write_to_json(output, output_file)
 
 
 def download_us_mp3():
     data = read_from_json('us_spotify_responses.json')
     songs = data['data']
-    for song in songs:
-        if u'error' in song.keys():
-            continue
+    n = 100
+    has_no_preview_url = 0
+    for song in songs[:n]:
         preview_url = song['preview_url']
         if preview_url is None:
+            print song['name']
+            has_no_preview_url += 1
             continue
         else:
             file_name = '-'.join(song['name'].split(' ')) + '.mp3'
@@ -50,6 +52,7 @@ def download_us_mp3():
                     if chunk:  # filter out keep-alive new chunks
                         f.write(chunk)
                         # f.flush() commented by recommendation from J.F.Sebastian
+    print "Total songs that has no preview_url:", has_no_preview_url
 
 
 def main():
