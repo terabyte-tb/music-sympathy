@@ -23,4 +23,4 @@ def read_from_json(file_name):
 
 def write_to_json(data, file_name):
     with open(file_name, 'w') as f:
-        json.dump(data, f, indent=2)
+        json.dump(data, f, ensure_ascii=False, indent=2)
