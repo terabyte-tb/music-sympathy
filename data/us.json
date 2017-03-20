@@ -1,0 +1,802 @@
+[
+  {
+    "position": 1,
+    "track_name": "Shape of You",
+    "artist": "Ed Sheeran",
+    "bpm": 97.4692671047,
+    "region": "US",
+    "duration_ms": 233712
+  },
+  {
+    "position": 2,
+    "track_name": "Mask Off",
+    "artist": "Future",
+    "bpm": 152.498703213,
+    "region": "US",
+    "duration_ms": 204600
+  },
+  {
+    "position": 3,
+    "track_name": "iSpy (feat. Lil Yachty)",
+    "artist": "Kyle",
+    "bpm": 152.86850034,
+    "region": "US",
+    "duration_ms": 253106
+  },
+  {
+    "position": 4,
+    "track_name": "That's What I Like",
+    "artist": "Bruno Mars",
+    "bpm": 136.20228611,
+    "region": "US",
+    "duration_ms": 206693
+  },
+  {
+    "position": 5,
+    "track_name": "Tunnel Vision",
+    "artist": "Kodak Black",
+    "bpm": 159.29188483,
+    "region": "US",
+    "duration_ms": 268186
+  },
+  {
+    "position": 6,
+    "track_name": "Bad and Boujee (feat. Lil Uzi Vert)",
+    "artist": "Migos",
+    "bpm": 129.16148634799998,
+    "region": "US",
+    "duration_ms": 343150
+  },
+  {
+    "position": 7,
+    "track_name": "It Ain't Me (with Selena Gomez)",
+    "artist": "Kygo",
+    "bpm": 101.354125759,
+    "region": "US",
+    "duration_ms": 220780
+  },
+  {
+    "position": 8,
+    "track_name": "Congratulations",
+    "artist": "Post Malone",
+    "bpm": 125.46214435700001,
+    "region": "US",
+    "duration_ms": 220293
+  },
+  {
+    "position": 9,
+    "track_name": "Bounce Back",
+    "artist": "Big Sean",
+    "bpm": 110.882981198,
+    "region": "US",
+    "duration_ms": 222360
+  },
+  {
+    "position": 10,
+    "track_name": "Something Just Like This",
+    "artist": "The Chainsmokers",
+    "bpm": 104.14041964299999,
+    "region": "US",
+    "duration_ms": 247626
+  },
+  {
+    "position": 11,
+    "track_name": "Stay (with Alessia Cara)",
+    "artist": "Zedd",
+    "bpm": 103.399665371,
+    "region": "US",
+    "duration_ms": 210090
+  },
+  {
+    "position": 12,
+    "track_name": "T-Shirt",
+    "artist": "Migos",
+    "bpm": 141.633427659,
+    "region": "US",
+    "duration_ms": 242407
+  },
+  {
+    "position": 13,
+    "track_name": "Issues",
+    "artist": "Julia Michaels",
+    "bpm": 116.083235851,
+    "region": "US",
+    "duration_ms": 176346
+  },
+  {
+    "position": 14,
+    "track_name": "Galway Girl",
+    "artist": "Ed Sheeran",
+    "bpm": 135.692323619,
+    "region": "US",
+    "duration_ms": 170826
+  },
+  {
+    "position": 15,
+    "track_name": "Paris",
+    "artist": "The Chainsmokers",
+    "bpm": 101.981054392,
+    "region": "US",
+    "duration_ms": 221520
+  },
+  {
+    "position": 16,
+    "track_name": "Location",
+    "artist": "Khalid",
+    "bpm": 162.460775706,
+    "region": "US",
+    "duration_ms": 219080
+  },
+  {
+    "position": 17,
+    "track_name": "I Don’t Wanna Live Forever (Fifty Shades Darker) - From \"Fifty Shades Darker (Original Motion Picture Soundtrack)",
+    "artist": "ZAYN",
+    "bpm": 120.678559098,
+    "region": "US",
+    "duration_ms": 245200
+  },
+  {
+    "position": 18,
+    "track_name": "Slide",
+    "artist": "Calvin Harris",
+    "bpm": 105.41613015700001,
+    "region": "US",
+    "duration_ms": 230393
+  },
+  {
+    "position": 19,
+    "track_name": "Fake Love",
+    "artist": "Drake",
+    "bpm": 136.56059803600002,
+    "region": "US",
+    "duration_ms": 207813
+  },
+  {
+    "position": 20,
+    "track_name": "I Feel It Coming",
+    "artist": "The Weeknd",
+    "bpm": 94.06659390280001,
+    "region": "US",
+    "duration_ms": 269186
+  },
+  {
+    "position": 21,
+    "track_name": "Swang",
+    "artist": "Rae Sremmurd",
+    "bpm": 142.957745199,
+    "region": "US",
+    "duration_ms": 208120
+  },
+  {
+    "position": 22,
+    "track_name": "Selfish",
+    "artist": "Future",
+    "bpm": 129.896973626,
+    "region": "US",
+    "duration_ms": 251422
+  },
+  {
+    "position": 23,
+    "track_name": "Body Like A Back Road",
+    "artist": "Sam Hunt",
+    "bpm": 100.34508167700001,
+    "region": "US",
+    "duration_ms": 165386
+  },
+  {
+    "position": 24,
+    "track_name": "Starboy",
+    "artist": "The Weeknd",
+    "bpm": 126.00603247,
+    "region": "US",
+    "duration_ms": 230453
+  },
+  {
+    "position": 25,
+    "track_name": "Castle on the Hill",
+    "artist": "Ed Sheeran",
+    "bpm": 138.215738009,
+    "region": "US",
+    "duration_ms": 261153
+  },
+  {
+    "position": 26,
+    "track_name": "Moves",
+    "artist": "Big Sean",
+    "bpm": 102.06758643299999,
+    "region": "US",
+    "duration_ms": 142906
+  },
+  {
+    "position": 27,
+    "track_name": "Cold",
+    "artist": "Maroon 5",
+    "bpm": 101.30174008700001,
+    "region": "US",
+    "duration_ms": 234308
+  },
+  {
+    "position": 28,
+    "track_name": "Believer",
+    "artist": "Imagine Dragons",
+    "bpm": 126.705925001,
+    "region": "US",
+    "duration_ms": 203782
+  },
+  {
+    "position": 29,
+    "track_name": "Say You Won't Let Go",
+    "artist": "James Arthur",
+    "bpm": 130.582316314,
+    "region": "US",
+    "duration_ms": 211466
+  },
+  {
+    "position": 30,
+    "track_name": "Look at Me!",
+    "artist": "Xxxtentacion",
+    "bpm": 141.217919078,
+    "region": "US",
+    "duration_ms": 151041
+  },
+  {
+    "position": 31,
+    "track_name": "Rolex",
+    "artist": "Ayo & Teo",
+    "bpm": 147.866908374,
+    "region": "US",
+    "duration_ms": 238586
+  },
+  {
+    "position": 32,
+    "track_name": "Closer",
+    "artist": "The Chainsmokers",
+    "bpm": 195.400116775,
+    "region": "US",
+    "duration_ms": 244960
+  },
+  {
+    "position": 33,
+    "track_name": "goosebumps",
+    "artist": "Travis Scott",
+    "bpm": 132.34304474200002,
+    "region": "US",
+    "duration_ms": 243836
+  },
+  {
+    "position": 34,
+    "track_name": "Caroline",
+    "artist": "Aminé",
+    "bpm": 122.042388762,
+    "region": "US",
+    "duration_ms": 209746
+  },
+  {
+    "position": 35,
+    "track_name": "Green Light",
+    "artist": "Lorde",
+    "bpm": 131.864837334,
+    "region": "US",
+    "duration_ms": 234661
+  },
+  {
+    "position": 36,
+    "track_name": "Love On The Brain",
+    "artist": "Rihanna",
+    "bpm": 176.729767158,
+    "region": "US",
+    "duration_ms": 224000
+  },
+  {
+    "position": 37,
+    "track_name": "No Frauds",
+    "artist": "Nicki Minaj",
+    "bpm": 126.00010213899999,
+    "region": "US",
+    "duration_ms": 272453
+  },
+  {
+    "position": 38,
+    "track_name": "Broccoli (feat. Lil Yachty)",
+    "artist": "D.R.A.M.",
+    "bpm": 148.251927536,
+    "region": "US",
+    "duration_ms": 225205
+  },
+  {
+    "position": 39,
+    "track_name": "Chained To The Rhythm",
+    "artist": "Katy Perry",
+    "bpm": 96.10984435799999,
+    "region": "US",
+    "duration_ms": 237915
+  },
+  {
+    "position": 40,
+    "track_name": "How Far I'll Go - From \"Moana",
+    "artist": "Alessia Cara",
+    "bpm": 102.478727147,
+    "region": "US",
+    "duration_ms": 175517
+  },
+  {
+    "position": 41,
+    "track_name": "Scared to Be Lonely",
+    "artist": "Martin Garrix",
+    "bpm": 141.527664638,
+    "region": "US",
+    "duration_ms": 220883
+  },
+  {
+    "position": 42,
+    "track_name": "Call On Me - Ryan Riback Extended Remix",
+    "artist": "Starley",
+    "bpm": 106.50451481399999,
+    "region": "US",
+    "duration_ms": 222040
+  },
+  {
+    "position": 43,
+    "track_name": "All Time Low",
+    "artist": "Jon Bellion",
+    "bpm": 91.61421503950001,
+    "region": "US",
+    "duration_ms": 217603
+  },
+  {
+    "position": 44,
+    "track_name": "Perfect",
+    "artist": "Ed Sheeran",
+    "bpm": 129.347634416,
+    "region": "US",
+    "duration_ms": 263400
+  },
+  {
+    "position": 45,
+    "track_name": "Redbone",
+    "artist": "Childish Gambino",
+    "bpm": 162.740442505,
+    "region": "US",
+    "duration_ms": 326933
+  },
+  {
+    "position": 46,
+    "track_name": "Despacito (Featuring Daddy Yankee)",
+    "artist": "Luis Fonsi",
+    "bpm": 90.2917369889,
+    "region": "US",
+    "duration_ms": 228200
+  },
+  {
+    "position": 47,
+    "track_name": "Black Beatles",
+    "artist": "Rae Sremmurd",
+    "bpm": 148.509839746,
+    "region": "US",
+    "duration_ms": 291893
+  },
+  {
+    "position": 48,
+    "track_name": "Dive",
+    "artist": "Ed Sheeran",
+    "bpm": 137.23319882200002,
+    "region": "US",
+    "duration_ms": 238440
+  },
+  {
+    "position": 49,
+    "track_name": "Both (feat. Drake)",
+    "artist": "Gucci Mane",
+    "bpm": 142.418851077,
+    "region": "US",
+    "duration_ms": 190311
+  },
+  {
+    "position": 50,
+    "track_name": "X (feat. Future)",
+    "artist": "21 Savage",
+    "bpm": 151.806928901,
+    "region": "US",
+    "duration_ms": 258880
+  },
+  {
+    "position": 51,
+    "track_name": "Happier",
+    "artist": "Ed Sheeran",
+    "bpm": 102.024382887,
+    "region": "US",
+    "duration_ms": 207520
+  },
+  {
+    "position": 52,
+    "track_name": "24K Magic",
+    "artist": "Bruno Mars",
+    "bpm": 108.21424876,
+    "region": "US",
+    "duration_ms": 225983
+  },
+  {
+    "position": 53,
+    "track_name": "No Heart",
+    "artist": "21 Savage",
+    "bpm": 94.2778920805,
+    "region": "US",
+    "duration_ms": 235040
+  },
+  {
+    "position": 54,
+    "track_name": "Sneakin’",
+    "artist": "Drake",
+    "bpm": 115.66707358299999,
+    "region": "US",
+    "duration_ms": 251333
+  },
+  {
+    "position": 55,
+    "track_name": "Weak",
+    "artist": "AJR",
+    "bpm": 126.09012656200001,
+    "region": "US",
+    "duration_ms": 202186
+  },
+  {
+    "position": 56,
+    "track_name": "No Problem (feat. Lil Wayne & 2 Chainz)",
+    "artist": "Chance The Rapper",
+    "bpm": 137.375833563,
+    "region": "US",
+    "duration_ms": 304606
+  },
+  {
+    "position": 57,
+    "track_name": "Chanel",
+    "artist": "Frank Ocean",
+    "bpm": 139.708285026,
+    "region": "US",
+    "duration_ms": 210285
+  },
+  {
+    "position": 58,
+    "track_name": "Party Monster",
+    "artist": "The Weeknd",
+    "bpm": 157.256726568,
+    "region": "US",
+    "duration_ms": 249213
+  },
+  {
+    "position": 59,
+    "track_name": "One Dance",
+    "artist": "Drake",
+    "bpm": 105.294572518,
+    "region": "US",
+    "duration_ms": 173986
+  },
+  {
+    "position": 60,
+    "track_name": "Run Up (feat. PARTYNEXTDOOR & Nicki Minaj)",
+    "artist": "Major Lazer",
+    "bpm": 140.34536053899998,
+    "region": "US",
+    "duration_ms": 203180
+  },
+  {
+    "position": 61,
+    "track_name": "New Man",
+    "artist": "Ed Sheeran",
+    "bpm": 169.648243374,
+    "region": "US",
+    "duration_ms": 189280
+  },
+  {
+    "position": 62,
+    "track_name": "All Night (feat. Knox Fortune)",
+    "artist": "Chance The Rapper",
+    "bpm": 113.742809105,
+    "region": "US",
+    "duration_ms": 141542
+  },
+  {
+    "position": 63,
+    "track_name": "Trap Trap Trap",
+    "artist": "Rick Ross",
+    "bpm": 139.472609701,
+    "region": "US",
+    "duration_ms": 275720
+  },
+  {
+    "position": 64,
+    "track_name": "Bad Things - With Camila Cabello",
+    "artist": "Machine Gun Kelly",
+    "bpm": 140.595279863,
+    "region": "US",
+    "duration_ms": 239280
+  },
+  {
+    "position": 65,
+    "track_name": "Slippery (feat. Gucci Mane)",
+    "artist": "Migos",
+    "bpm": 143.976493096,
+    "region": "US",
+    "duration_ms": 304041
+  },
+  {
+    "position": 66,
+    "track_name": "All Night",
+    "artist": "The Vamps",
+    "bpm": 147.866560865,
+    "region": "US",
+    "duration_ms": 197793
+  },
+  {
+    "position": 67,
+    "track_name": "Comin Out Strong",
+    "artist": "Future",
+    "bpm": 110.632622916,
+    "region": "US",
+    "duration_ms": 254369
+  },
+  {
+    "position": 68,
+    "track_name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
+    "artist": "Jason Derulo",
+    "bpm": 125.279596291,
+    "region": "US",
+    "duration_ms": 216408
+  },
+  {
+    "position": 69,
+    "track_name": "Rockabye (feat. Sean Paul & Anne-Marie)",
+    "artist": "Clean Bandit",
+    "bpm": 103.56988887899999,
+    "region": "US",
+    "duration_ms": 251088
+  },
+  {
+    "position": 70,
+    "track_name": "Down",
+    "artist": "Marian Hill",
+    "bpm": 148.806018751,
+    "region": "US",
+    "duration_ms": 197773
+  },
+  {
+    "position": 71,
+    "track_name": "I Got You",
+    "artist": "Bebe Rexha",
+    "bpm": 99.85645583680001,
+    "region": "US",
+    "duration_ms": 191811
+  },
+  {
+    "position": 72,
+    "track_name": "Chill Bill",
+    "artist": "Rob $tone",
+    "bpm": 109.42005141,
+    "region": "US",
+    "duration_ms": 177184
+  },
+  {
+    "position": 73,
+    "track_name": "What Do I Know?",
+    "artist": "Ed Sheeran",
+    "bpm": 116.87020243,
+    "region": "US",
+    "duration_ms": 237333
+  },
+  {
+    "position": 74,
+    "track_name": "pick up the phone",
+    "artist": "Young Thug",
+    "bpm": 140.326534982,
+    "region": "US",
+    "duration_ms": 252256
+  },
+  {
+    "position": 75,
+    "track_name": "White Iverson",
+    "artist": "Post Malone",
+    "bpm": 132.76475057,
+    "region": "US",
+    "duration_ms": 256533
+  },
+  {
+    "position": 76,
+    "track_name": "Low Life",
+    "artist": "Future",
+    "bpm": 146.60921723200002,
+    "region": "US",
+    "duration_ms": 313546
+  },
+  {
+    "position": 77,
+    "track_name": "You Was Right",
+    "artist": "Lil Uzi Vert",
+    "bpm": 111.51860635799999,
+    "region": "US",
+    "duration_ms": 163944
+  },
+  {
+    "position": 78,
+    "track_name": "Losin Control",
+    "artist": "Russ",
+    "bpm": 98.22005284209999,
+    "region": "US",
+    "duration_ms": 237840
+  },
+  {
+    "position": 79,
+    "track_name": "Don't Leave",
+    "artist": "Snakehips",
+    "bpm": 125.26929160200001,
+    "region": "US",
+    "duration_ms": 214693
+  },
+  {
+    "position": 80,
+    "track_name": "September Song",
+    "artist": "JP Cooper",
+    "bpm": 97.2900552059,
+    "region": "US",
+    "duration_ms": 220290
+  },
+  {
+    "position": 81,
+    "track_name": "Selfish",
+    "artist": "PnB Rock",
+    "bpm": 103.411731639,
+    "region": "US",
+    "duration_ms": 245604
+  },
+  {
+    "position": 82,
+    "track_name": "Starving",
+    "artist": "Hailee Steinfeld",
+    "bpm": 101.410325018,
+    "region": "US",
+    "duration_ms": 181880
+  },
+  {
+    "position": 83,
+    "track_name": "Barcelona",
+    "artist": "Ed Sheeran",
+    "bpm": 101.342370997,
+    "region": "US",
+    "duration_ms": 191146
+  },
+  {
+    "position": 84,
+    "track_name": "Solo Dance",
+    "artist": "Martin Jensen",
+    "bpm": 116.883119778,
+    "region": "US",
+    "duration_ms": 174933
+  },
+  {
+    "position": 85,
+    "track_name": "Heathens",
+    "artist": "Twenty One Pilots",
+    "bpm": 170.314155543,
+    "region": "US",
+    "duration_ms": 195920
+  },
+  {
+    "position": 86,
+    "track_name": "Sunset Lover",
+    "artist": "Petit Biscuit",
+    "bpm": 122.978238476,
+    "region": "US",
+    "duration_ms": 237792
+  },
+  {
+    "position": 87,
+    "track_name": "Nancy Mulligan",
+    "artist": "Ed Sheeran",
+    "bpm": 103.438084725,
+    "region": "US",
+    "duration_ms": 179786
+  },
+  {
+    "position": 88,
+    "track_name": "Kelly Price (feat. Travis Scott)",
+    "artist": "Migos",
+    "bpm": 123.783717846,
+    "region": "US",
+    "duration_ms": 363934
+  },
+  {
+    "position": 89,
+    "track_name": "History",
+    "artist": "Olivia Holt",
+    "bpm": 102.381591262,
+    "region": "US",
+    "duration_ms": 203992
+  },
+  {
+    "position": 90,
+    "track_name": "No Role Modelz",
+    "artist": "J. Cole",
+    "bpm": 101.297662482,
+    "region": "US",
+    "duration_ms": 292986
+  },
+  {
+    "position": 91,
+    "track_name": "Just Hold On",
+    "artist": "Steve Aoki",
+    "bpm": 116.908965902,
+    "region": "US",
+    "duration_ms": 198774
+  },
+  {
+    "position": 92,
+    "track_name": "No Favors",
+    "artist": "Big Sean",
+    "bpm": 95.4116792803,
+    "region": "US",
+    "duration_ms": 325840
+  },
+  {
+    "position": 93,
+    "track_name": "Water",
+    "artist": "Ugly God",
+    "bpm": 142.779956427,
+    "region": "US",
+    "duration_ms": 139674
+  },
+  {
+    "position": 94,
+    "track_name": "Side To Side",
+    "artist": "Ariana Grande",
+    "bpm": 162.052881665,
+    "region": "US",
+    "duration_ms": 226160
+  },
+  {
+    "position": 95,
+    "track_name": "Party",
+    "artist": "Chris Brown",
+    "bpm": 147.000070095,
+    "region": "US",
+    "duration_ms": 220813
+  },
+  {
+    "position": 96,
+    "track_name": "Supermarket Flowers",
+    "artist": "Ed Sheeran",
+    "bpm": 132.55272585,
+    "region": "US",
+    "duration_ms": 221106
+  },
+  {
+    "position": 97,
+    "track_name": "Deja Vu",
+    "artist": "J. Cole",
+    "bpm": 117.838271692,
+    "region": "US",
+    "duration_ms": 264746
+  },
+  {
+    "position": 98,
+    "track_name": "Controlla",
+    "artist": "Drake",
+    "bpm": 126.693677656,
+    "region": "US",
+    "duration_ms": 245226
+  },
+  {
+    "position": 99,
+    "track_name": "Too Good",
+    "artist": "Drake",
+    "bpm": 119.83725714299999,
+    "region": "US",
+    "duration_ms": 263373
+  },
+  {
+    "position": 100,
+    "track_name": "Sooner Or Later",
+    "artist": "Aaron Carter",
+    "bpm": 113.54759124,
+    "region": "US",
+    "duration_ms": 212564
+  }
+]

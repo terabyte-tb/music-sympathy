@@ -1,0 +1,802 @@
+[
+  {
+    "position": 1,
+    "track_name": "Shape of You",
+    "artist": "Ed Sheeran",
+    "bpm": 97.4692671047,
+    "region": "JP",
+    "duration_ms": 233712
+  },
+  {
+    "position": 2,
+    "track_name": "Something Just Like This",
+    "artist": "The Chainsmokers",
+    "bpm": 104.14041964299999,
+    "region": "JP",
+    "duration_ms": 247626
+  },
+  {
+    "position": 3,
+    "track_name": "Stay (with Alessia Cara)",
+    "artist": "Zedd",
+    "bpm": 103.399665371,
+    "region": "JP",
+    "duration_ms": 210090
+  },
+  {
+    "position": 4,
+    "track_name": "It Ain't Me (with Selena Gomez)",
+    "artist": "Kygo",
+    "bpm": 101.354125759,
+    "region": "JP",
+    "duration_ms": 220780
+  },
+  {
+    "position": 5,
+    "track_name": "Galway Girl",
+    "artist": "Ed Sheeran",
+    "bpm": 135.692323619,
+    "region": "JP",
+    "duration_ms": 170826
+  },
+  {
+    "position": 6,
+    "track_name": "Paris",
+    "artist": "The Chainsmokers",
+    "bpm": 101.981054392,
+    "region": "JP",
+    "duration_ms": 221520
+  },
+  {
+    "position": 7,
+    "track_name": "That's What I Like",
+    "artist": "Bruno Mars",
+    "bpm": 136.20228611,
+    "region": "JP",
+    "duration_ms": 206693
+  },
+  {
+    "position": 8,
+    "track_name": "Castle on the Hill",
+    "artist": "Ed Sheeran",
+    "bpm": 138.215738009,
+    "region": "JP",
+    "duration_ms": 261153
+  },
+  {
+    "position": 9,
+    "track_name": "Closer",
+    "artist": "The Chainsmokers",
+    "bpm": 195.400116775,
+    "region": "JP",
+    "duration_ms": 244960
+  },
+  {
+    "position": 10,
+    "track_name": "Slide",
+    "artist": "Calvin Harris",
+    "bpm": 105.41613015700001,
+    "region": "JP",
+    "duration_ms": 230393
+  },
+  {
+    "position": 11,
+    "track_name": "I Don’t Wanna Live Forever (Fifty Shades Darker) - From \"Fifty Shades Darker (Original Motion Picture Soundtrack)",
+    "artist": "ZAYN",
+    "bpm": 120.678559098,
+    "region": "JP",
+    "duration_ms": 245200
+  },
+  {
+    "position": 12,
+    "track_name": "I Feel It Coming",
+    "artist": "The Weeknd",
+    "bpm": 94.06659390280001,
+    "region": "JP",
+    "duration_ms": 269186
+  },
+  {
+    "position": 13,
+    "track_name": "Call On Me - Ryan Riback Extended Remix",
+    "artist": "Starley",
+    "bpm": 106.50451481399999,
+    "region": "JP",
+    "duration_ms": 222040
+  },
+  {
+    "position": 14,
+    "track_name": "Scared to Be Lonely",
+    "artist": "Martin Garrix",
+    "bpm": 141.527664638,
+    "region": "JP",
+    "duration_ms": 220883
+  },
+  {
+    "position": 15,
+    "track_name": "Cold",
+    "artist": "Maroon 5",
+    "bpm": 101.30174008700001,
+    "region": "JP",
+    "duration_ms": 234308
+  },
+  {
+    "position": 16,
+    "track_name": "Say You Won't Let Go",
+    "artist": "James Arthur",
+    "bpm": 130.582316314,
+    "region": "JP",
+    "duration_ms": 211466
+  },
+  {
+    "position": 17,
+    "track_name": "Chained To The Rhythm",
+    "artist": "Katy Perry",
+    "bpm": 96.10984435799999,
+    "region": "JP",
+    "duration_ms": 237915
+  },
+  {
+    "position": 18,
+    "track_name": "Issues",
+    "artist": "Julia Michaels",
+    "bpm": 116.083235851,
+    "region": "JP",
+    "duration_ms": 176346
+  },
+  {
+    "position": 19,
+    "track_name": "Perfect",
+    "artist": "Ed Sheeran",
+    "bpm": 129.347634416,
+    "region": "JP",
+    "duration_ms": 263400
+  },
+  {
+    "position": 20,
+    "track_name": "How Far I'll Go - From \"Moana",
+    "artist": "Alessia Cara",
+    "bpm": 102.478727147,
+    "region": "JP",
+    "duration_ms": 175517
+  },
+  {
+    "position": 21,
+    "track_name": "Run Up (feat. PARTYNEXTDOOR & Nicki Minaj)",
+    "artist": "Major Lazer",
+    "bpm": 140.34536053899998,
+    "region": "JP",
+    "duration_ms": 203180
+  },
+  {
+    "position": 22,
+    "track_name": "New Man",
+    "artist": "Ed Sheeran",
+    "bpm": 169.648243374,
+    "region": "JP",
+    "duration_ms": 189280
+  },
+  {
+    "position": 23,
+    "track_name": "Solo Dance",
+    "artist": "Martin Jensen",
+    "bpm": 116.883119778,
+    "region": "JP",
+    "duration_ms": 174933
+  },
+  {
+    "position": 24,
+    "track_name": "HAPPY",
+    "artist": "J Soul Brothers III from EXILE TRIBE",
+    "bpm": 117.017470441,
+    "region": "JP",
+    "duration_ms": 186933
+  },
+  {
+    "position": 25,
+    "track_name": "Just Hold On",
+    "artist": "Steve Aoki",
+    "bpm": 116.908965902,
+    "region": "JP",
+    "duration_ms": 198774
+  },
+  {
+    "position": 26,
+    "track_name": "Green Light",
+    "artist": "Lorde",
+    "bpm": 131.864837334,
+    "region": "JP",
+    "duration_ms": 234661
+  },
+  {
+    "position": 27,
+    "track_name": "Happier",
+    "artist": "Ed Sheeran",
+    "bpm": 102.024382887,
+    "region": "JP",
+    "duration_ms": 207520
+  },
+  {
+    "position": 28,
+    "track_name": "Fire",
+    "artist": "Shota Shimizu",
+    "bpm": 103.009270326,
+    "region": "JP",
+    "duration_ms": 317000
+  },
+  {
+    "position": 29,
+    "track_name": "What Do You Mean?",
+    "artist": "Justin Bieber",
+    "bpm": 126.72430045799999,
+    "region": "JP",
+    "duration_ms": 205680
+  },
+  {
+    "position": 30,
+    "track_name": "What Do I Know?",
+    "artist": "Ed Sheeran",
+    "bpm": 116.87020243,
+    "region": "JP",
+    "duration_ms": 237333
+  },
+  {
+    "position": 31,
+    "track_name": "どこまでも ~How Far I'll Go~(エンドソング)",
+    "artist": "Miliyah",
+    "bpm": 122.32999288399999,
+    "region": "JP",
+    "duration_ms": 177160
+  },
+  {
+    "position": 32,
+    "track_name": "Rockabye (feat. Sean Paul & Anne-Marie)",
+    "artist": "Clean Bandit",
+    "bpm": 103.56988887899999,
+    "region": "JP",
+    "duration_ms": 251088
+  },
+  {
+    "position": 33,
+    "track_name": "Starboy",
+    "artist": "The Weeknd",
+    "bpm": 126.00603247,
+    "region": "JP",
+    "duration_ms": 230453
+  },
+  {
+    "position": 34,
+    "track_name": "24K Magic",
+    "artist": "Bruno Mars",
+    "bpm": 108.21424876,
+    "region": "JP",
+    "duration_ms": 225983
+  },
+  {
+    "position": 35,
+    "track_name": "Dive",
+    "artist": "Ed Sheeran",
+    "bpm": 137.23319882200002,
+    "region": "JP",
+    "duration_ms": 238440
+  },
+  {
+    "position": 36,
+    "track_name": "iSpy (feat. Lil Yachty)",
+    "artist": "Kyle",
+    "bpm": 152.86850034,
+    "region": "JP",
+    "duration_ms": 253106
+  },
+  {
+    "position": 37,
+    "track_name": "Despacito (Featuring Daddy Yankee)",
+    "artist": "Luis Fonsi",
+    "bpm": 90.2917369889,
+    "region": "JP",
+    "duration_ms": 228200
+  },
+  {
+    "position": 38,
+    "track_name": "Believer",
+    "artist": "Imagine Dragons",
+    "bpm": 126.705925001,
+    "region": "JP",
+    "duration_ms": 203782
+  },
+  {
+    "position": 39,
+    "track_name": "How Would You Feel (Paean)",
+    "artist": "Ed Sheeran",
+    "bpm": 143.003886805,
+    "region": "JP",
+    "duration_ms": 280533
+  },
+  {
+    "position": 40,
+    "track_name": "Supermarket Flowers",
+    "artist": "Ed Sheeran",
+    "bpm": 132.55272585,
+    "region": "JP",
+    "duration_ms": 221106
+  },
+  {
+    "position": 41,
+    "track_name": "All Night",
+    "artist": "The Vamps",
+    "bpm": 147.866560865,
+    "region": "JP",
+    "duration_ms": 197793
+  },
+  {
+    "position": 42,
+    "track_name": "All Time Low",
+    "artist": "Jon Bellion",
+    "bpm": 91.61421503950001,
+    "region": "JP",
+    "duration_ms": 217603
+  },
+  {
+    "position": 43,
+    "track_name": "Barcelona",
+    "artist": "Ed Sheeran",
+    "bpm": 101.342370997,
+    "region": "JP",
+    "duration_ms": 191146
+  },
+  {
+    "position": 44,
+    "track_name": "Weak",
+    "artist": "AJR",
+    "bpm": 126.09012656200001,
+    "region": "JP",
+    "duration_ms": 202186
+  },
+  {
+    "position": 45,
+    "track_name": "You Don't Know Me",
+    "artist": "Jax Jones",
+    "bpm": 125.847305005,
+    "region": "JP",
+    "duration_ms": 213946
+  },
+  {
+    "position": 46,
+    "track_name": "Nancy Mulligan",
+    "artist": "Ed Sheeran",
+    "bpm": 103.438084725,
+    "region": "JP",
+    "duration_ms": 179786
+  },
+  {
+    "position": 47,
+    "track_name": "STAY TUNE",
+    "artist": "Suchmos",
+    "bpm": 125.067956501,
+    "region": "JP",
+    "duration_ms": 297333
+  },
+  {
+    "position": 48,
+    "track_name": "Another Day Of Sun - From \"La La Land\" Soundtrack",
+    "artist": "La La Land Cast",
+    "bpm": 128.427857701,
+    "region": "JP",
+    "duration_ms": 228173
+  },
+  {
+    "position": 49,
+    "track_name": "Take What You Want (feat. 5 Seconds of Summer)",
+    "artist": "ONE OK ROCK",
+    "bpm": 119.90760293700001,
+    "region": "JP",
+    "duration_ms": 243333
+  },
+  {
+    "position": 50,
+    "track_name": "Symphony",
+    "artist": "Clean Bandit",
+    "bpm": 127.518107835,
+    "region": "JP",
+    "duration_ms": 212826
+  },
+  {
+    "position": 51,
+    "track_name": "Hearts Don't Break Around Here",
+    "artist": "Ed Sheeran",
+    "bpm": 142.10529168899998,
+    "region": "JP",
+    "duration_ms": 248413
+  },
+  {
+    "position": 52,
+    "track_name": "Mask Off",
+    "artist": "Future",
+    "bpm": 152.498703213,
+    "region": "JP",
+    "duration_ms": 204600
+  },
+  {
+    "position": 53,
+    "track_name": "優しくしないで'95",
+    "artist": "MGF",
+    "bpm": 97.4494898201,
+    "region": "JP",
+    "duration_ms": 288986
+  },
+  {
+    "position": 54,
+    "track_name": "Let Me Love You",
+    "artist": "DJ Snake",
+    "bpm": 101.34057533299999,
+    "region": "JP",
+    "duration_ms": 205946
+  },
+  {
+    "position": 55,
+    "track_name": "Sorry",
+    "artist": "Justin Bieber",
+    "bpm": 136.17398531700002,
+    "region": "JP",
+    "duration_ms": 200786
+  },
+  {
+    "position": 56,
+    "track_name": "Wherever you are",
+    "artist": "ONE OK ROCK",
+    "bpm": 119.458176529,
+    "region": "JP",
+    "duration_ms": 295600
+  },
+  {
+    "position": 57,
+    "track_name": "Love Yourself",
+    "artist": "Justin Bieber",
+    "bpm": 101.80843730299999,
+    "region": "JP",
+    "duration_ms": 233720
+  },
+  {
+    "position": 58,
+    "track_name": "Someone In The Crowd - From \"La La Land\" Soundtrack",
+    "artist": "Emma Stone",
+    "bpm": 130.098026619,
+    "region": "JP",
+    "duration_ms": 259613
+  },
+  {
+    "position": 59,
+    "track_name": "Congratulations",
+    "artist": "Post Malone",
+    "bpm": 125.46214435700001,
+    "region": "JP",
+    "duration_ms": 220293
+  },
+  {
+    "position": 60,
+    "track_name": "Eraser",
+    "artist": "Ed Sheeran",
+    "bpm": 116.79800622799999,
+    "region": "JP",
+    "duration_ms": 227426
+  },
+  {
+    "position": 61,
+    "track_name": "Sooner Or Later",
+    "artist": "Aaron Carter",
+    "bpm": 113.54759124,
+    "region": "JP",
+    "duration_ms": 212564
+  },
+  {
+    "position": 62,
+    "track_name": "Chantaje",
+    "artist": "Shakira",
+    "bpm": 103.218321032,
+    "region": "JP",
+    "duration_ms": 195612
+  },
+  {
+    "position": 63,
+    "track_name": "黄熱病 -YELLOW FEVER- × STUTS",
+    "artist": "AKKOGORILLA",
+    "bpm": 106.904827446,
+    "region": "JP",
+    "duration_ms": 211990
+  },
+  {
+    "position": 64,
+    "track_name": "Bad and Boujee (feat. Lil Uzi Vert)",
+    "artist": "Migos",
+    "bpm": 129.16148634799998,
+    "region": "JP",
+    "duration_ms": 343150
+  },
+  {
+    "position": 65,
+    "track_name": "平行線",
+    "artist": "Sayuri",
+    "bpm": 129.916152233,
+    "region": "JP",
+    "duration_ms": 299186
+  },
+  {
+    "position": 66,
+    "track_name": "金星 Feat.DAOKO",
+    "artist": "QUEEN BEE",
+    "bpm": 125.789873559,
+    "region": "JP",
+    "duration_ms": 234373
+  },
+  {
+    "position": 67,
+    "track_name": "GET WILD - 2017 TK REMIX",
+    "artist": "Tetsuya Komuro",
+    "bpm": 132.187887416,
+    "region": "JP",
+    "duration_ms": 417866
+  },
+  {
+    "position": 68,
+    "track_name": "イキツクシ",
+    "artist": "DADARAY",
+    "bpm": 94.2273423707,
+    "region": "JP",
+    "duration_ms": 251426
+  },
+  {
+    "position": 69,
+    "track_name": "We Are",
+    "artist": "ONE OK ROCK",
+    "bpm": 100.708133075,
+    "region": "JP",
+    "duration_ms": 255400
+  },
+  {
+    "position": 70,
+    "track_name": "Bounce Back",
+    "artist": "Big Sean",
+    "bpm": 110.882981198,
+    "region": "JP",
+    "duration_ms": 222360
+  },
+  {
+    "position": 71,
+    "track_name": "桜 super love(single mix)",
+    "artist": "Sunny Day Service",
+    "bpm": 110.627954085,
+    "region": "JP",
+    "duration_ms": 271413
+  },
+  {
+    "position": 72,
+    "track_name": "おとなの掟",
+    "artist": "Doughnuts Hole",
+    "bpm": 132.511963335,
+    "region": "JP",
+    "duration_ms": 206333
+  },
+  {
+    "position": 73,
+    "track_name": "Don't Wanna Know",
+    "artist": "Maroon 5",
+    "bpm": 101.80827255700001,
+    "region": "JP",
+    "duration_ms": 214480
+  },
+  {
+    "position": 74,
+    "track_name": "ワタリドリ",
+    "artist": "[Alexandros]",
+    "bpm": 137.35483927299998,
+    "region": "JP",
+    "duration_ms": 248706
+  },
+  {
+    "position": 75,
+    "track_name": "晴れた午後は代官山で",
+    "artist": "DJ HASEBE",
+    "bpm": 122.115605931,
+    "region": "JP",
+    "duration_ms": 236293
+  },
+  {
+    "position": 76,
+    "track_name": "CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's \"TROLLS\")",
+    "artist": "Justin Timberlake",
+    "bpm": 114.783775728,
+    "region": "JP",
+    "duration_ms": 236001
+  },
+  {
+    "position": 77,
+    "track_name": "Cold Water (feat. Justin Bieber & MØ)",
+    "artist": "Major Lazer",
+    "bpm": 94.1000789719,
+    "region": "JP",
+    "duration_ms": 185351
+  },
+  {
+    "position": 78,
+    "track_name": "MAGIC",
+    "artist": "AAA",
+    "bpm": 132.891506206,
+    "region": "JP",
+    "duration_ms": 228847
+  },
+  {
+    "position": 79,
+    "track_name": "Take No Defeat feat. Santell",
+    "artist": "banvox",
+    "bpm": 152.780334995,
+    "region": "JP",
+    "duration_ms": 180870
+  },
+  {
+    "position": 80,
+    "track_name": "My Boo",
+    "artist": "Shota Shimizu",
+    "bpm": 105.03125171200001,
+    "region": "JP",
+    "duration_ms": 269573
+  },
+  {
+    "position": 81,
+    "track_name": "El Amante",
+    "artist": "Nicky Jam",
+    "bpm": 91.0106352475,
+    "region": "JP",
+    "duration_ms": 219506
+  },
+  {
+    "position": 82,
+    "track_name": "I Got You",
+    "artist": "Bebe Rexha",
+    "bpm": 99.85645583680001,
+    "region": "JP",
+    "duration_ms": 191811
+  },
+  {
+    "position": 83,
+    "track_name": "Selfish",
+    "artist": "Future",
+    "bpm": 129.896973626,
+    "region": "JP",
+    "duration_ms": 251422
+  },
+  {
+    "position": 84,
+    "track_name": "Sugar",
+    "artist": "Maroon 5",
+    "bpm": 121.907419276,
+    "region": "JP",
+    "duration_ms": 235492
+  },
+  {
+    "position": 85,
+    "track_name": "Uptown Funk",
+    "artist": "Mark Ronson",
+    "bpm": 116.656208976,
+    "region": "JP",
+    "duration_ms": 269666
+  },
+  {
+    "position": 86,
+    "track_name": "Save Myself",
+    "artist": "Ed Sheeran",
+    "bpm": 140.07417315,
+    "region": "JP",
+    "duration_ms": 247106
+  },
+  {
+    "position": 87,
+    "track_name": "SUBEME LA RADIO",
+    "artist": "Enrique Iglesias",
+    "bpm": 92.11812403639999,
+    "region": "JP",
+    "duration_ms": 208162
+  },
+  {
+    "position": 88,
+    "track_name": "Tunnel Vision",
+    "artist": "Kodak Black",
+    "bpm": 159.29188483,
+    "region": "JP",
+    "duration_ms": 268186
+  },
+  {
+    "position": 89,
+    "track_name": "どんなときも。",
+    "artist": "Sonoko Inoue",
+    "bpm": 127.496525476,
+    "region": "JP",
+    "duration_ms": 262973
+  },
+  {
+    "position": 90,
+    "track_name": "Just the Way You Are",
+    "artist": "Bruno Mars",
+    "bpm": 110.521456227,
+    "region": "JP",
+    "duration_ms": 220733
+  },
+  {
+    "position": 91,
+    "track_name": "Faces",
+    "artist": "Crystal Kay",
+    "bpm": 163.490110307,
+    "region": "JP",
+    "duration_ms": 305440
+  },
+  {
+    "position": 92,
+    "track_name": "PINKVIBES",
+    "artist": "Suchmos",
+    "bpm": 117.46162382799999,
+    "region": "JP",
+    "duration_ms": 288093
+  },
+  {
+    "position": 93,
+    "track_name": "All We Know",
+    "artist": "The Chainsmokers",
+    "bpm": 91.1737167697,
+    "region": "JP",
+    "duration_ms": 194080
+  },
+  {
+    "position": 94,
+    "track_name": "Versace On The Floor",
+    "artist": "Bruno Mars",
+    "bpm": 117.722952958,
+    "region": "JP",
+    "duration_ms": 261240
+  },
+  {
+    "position": 95,
+    "track_name": "Don't Let Me Down",
+    "artist": "The Chainsmokers",
+    "bpm": 154.097419923,
+    "region": "JP",
+    "duration_ms": 208053
+  },
+  {
+    "position": 96,
+    "track_name": "Mia & Sebastian’s Theme - From \"La La Land\" Soundtrack",
+    "artist": "Justin Hurwitz",
+    "bpm": 125.92784743200001,
+    "region": "JP",
+    "duration_ms": 96893
+  },
+  {
+    "position": 97,
+    "track_name": "The Beginning",
+    "artist": "ONE OK ROCK",
+    "bpm": 183.490075864,
+    "region": "JP",
+    "duration_ms": 292733
+  },
+  {
+    "position": 98,
+    "track_name": "Side To Side",
+    "artist": "Ariana Grande",
+    "bpm": 162.052881665,
+    "region": "JP",
+    "duration_ms": 226160
+  },
+  {
+    "position": 99,
+    "track_name": "Cake",
+    "artist": "Flo Rida",
+    "bpm": 106.48749682299999,
+    "region": "JP",
+    "duration_ms": 157164
+  },
+  {
+    "position": 100,
+    "track_name": "Taking Off",
+    "artist": "ONE OK ROCK",
+    "bpm": 113.811532645,
+    "region": "JP",
+    "duration_ms": 219084
+  }
+]
